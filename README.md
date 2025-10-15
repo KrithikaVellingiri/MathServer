@@ -100,6 +100,7 @@ math.html
     <br>
     <div class="edge">
         <div class="box">
+        <h1>KRITHIKA.V(25017985)</h1>
             <h1>Body Mass Index (BMI) Calculator</h1>
            <form method="POST">
   {% csrf_token %}
@@ -160,10 +161,10 @@ urlpatterns = [
 
 
 ## SERVER SIDE PROCESSING:
-![alt text](<Screenshot (809)-1.png>)
+![alt text](<Screenshot (824)-1.png>)
 
 ## HOMEPAGE:
-![alt text](<Screenshot (810)-1.png>)
+![alt text](<Screenshot (823)-1.png>)
 
 ## RESULT:
 The program for performing server side processing is completed successfully.
